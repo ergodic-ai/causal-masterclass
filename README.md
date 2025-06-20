@@ -20,3 +20,7 @@ If you don't have `uv`:
    - `curl -LsSf https://astral.sh/uv/install.sh | sh`,
    - `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
 3. Buy me a coffe later.
+
+## If you don't have access to local python:
+
+https://colab.research.google.com/drive/10KlMQo0oKJ78G9G4UNAegce2FZfxycVD?usp=sharing to get access to the toy datasets.
